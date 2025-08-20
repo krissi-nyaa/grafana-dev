@@ -109,7 +109,7 @@
         "pluginVersion": "12.1.2",
         "targets": [
           {
-            "queryType": "measurements",
+            "queryType": "randomWalk",
             "refId": "A"
           }
         ],
