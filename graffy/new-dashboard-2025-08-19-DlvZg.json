@@ -109,6 +109,7 @@
         "pluginVersion": "12.1.2",
         "targets": [
           {
+            "queryType": "measurements",
             "refId": "A"
           }
         ],
